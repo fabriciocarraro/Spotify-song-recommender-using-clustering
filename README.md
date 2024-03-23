@@ -1,1 +1,3 @@
-# spotify-song-recommender
+# Spotify Song Recommender
+
+Clustering with KMeans
